@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AchizitiiView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddAchizitieView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BonDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BonView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CasierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Main.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProducatorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RegView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SearchView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StocView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UsersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SearchByProducer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AchizitiiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddAchizitieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BonDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BonView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CasierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Main.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProducatorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RegView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StocView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UsersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SearchByProducer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

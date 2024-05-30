@@ -1,0 +1,965 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An 2 sem 2\\MVP\\SuperMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\logreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\logreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\stocvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\stocvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\produsepebon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\produsepebon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\stocview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\stocview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\stoclogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\stoclogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\stocuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\stocuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\converters\\achizitieconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\converters\\achizitieconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\producatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\producatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\producatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\producatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\producatorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\producatorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\producatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\producatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\achizitiilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\achizitiilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\bonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\bonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\searchview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\searchview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\searchbyproducervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\searchbyproducervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\searchbyproducer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\searchbyproducer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\bondetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\bondetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\categorieprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\categorieprodus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\producator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\producator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\addachizitieview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\addachizitieview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\achizitiiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\achizitiiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\achizitiivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\achizitiivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\userslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\userslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\logic\\bonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\logic\\bonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\casiervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\casiervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\viewmodel\\usersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\viewmodel\\usersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\bonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\bonview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\bondetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\bondetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\models\\bonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\bonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\achizitiiview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\achizitiiview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\bonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\bonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\converters\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\converters\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\stocview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\stocview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\regview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\regview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\mainlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\mainlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\mainlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\mainlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\casierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\casierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\casierview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\casierview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\helper\\basepropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\helper\\basepropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\searchbyproducer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\searchbyproducer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\helper\\tiputilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\helper\\tiputilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|d:\\an 2 sem 2\\mvp\\supermarket\\supermarket\\views\\regview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DE9BCE-3DCA-4DD2-9F23-BD8D80B84647}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\regview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\SearchView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\SearchView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T13:04:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SearchVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\SearchVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\SearchVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\SearchVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\SearchVM.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAswJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:04:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\ProductLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\ProductLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\ProductLogic.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAA1wJAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:55:43.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BonDetails.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonDetails.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\BonDetails.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonDetails.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\BonDetails.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:40:18.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BonDetails.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonDetails.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\BonDetails.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonDetails.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\BonDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T16:37:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AchizitieConverter.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Converters\\AchizitieConverter.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Converters\\AchizitieConverter.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Converters\\AchizitieConverter.cs",
+              "RelativeToolTip": "SuperMarket\\Converters\\AchizitieConverter.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:22:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AchizitiiView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AchizitiiView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\AchizitiiView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AchizitiiView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\AchizitiiView.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:18:15.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddAchizitieView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AddAchizitieView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\AddAchizitieView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AddAchizitieView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\AddAchizitieView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T13:44:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AchizitiiLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\AchizitiiLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\AchizitiiLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\AchizitiiLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\AchizitiiLogic.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:28:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AchizitiiVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\AchizitiiVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\AchizitiiVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\AchizitiiVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\AchizitiiVM.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAASwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:28:17.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AchizitiiView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AchizitiiView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\AchizitiiView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\AchizitiiView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\AchizitiiView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T13:28:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\SearchView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\SearchView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:25:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BonView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\BonView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\BonView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:05:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BonLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\BonLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\BonLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\BonLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\BonLogic.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:57:17.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BonVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\BonVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\BonVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\BonVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\BonVM.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAApwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:56:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BonView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\BonView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\BonView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\BonView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T12:53:00.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SearchByProducer.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchByProducer.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\SearchByProducer.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchByProducer.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\SearchByProducer.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:20:31.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SearchByProducerVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\SearchByProducerVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\SearchByProducerVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\SearchByProducerVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\SearchByProducerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:17:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SearchByProducer.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchByProducer.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\SearchByProducer.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\SearchByProducer.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\SearchByProducer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T16:16:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CasierVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\CasierVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\CasierVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\CasierVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\CasierVM.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:58:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CasierView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\CasierView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\CasierView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\CasierView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\CasierView.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:57:16.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CasierView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\CasierView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\CasierView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\CasierView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\CasierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T12:54:51.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Main.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\Main.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\Main.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:24:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainLogin.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\MainLogin.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\MainLogin.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\MainLogin.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\MainLogin.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:02:59.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MainLogin.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\MainLogin.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\MainLogin.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\MainLogin.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\MainLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T11:35:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StocView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\StocView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\StocView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\StocView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\StocView.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:05:36.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StocLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\StocLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\StocLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\StocLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\StocLogic.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:54:17.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StocView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\StocView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\StocView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\StocView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\StocView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T14:53:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\StocVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\StocVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\StocVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\StocVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAywBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:53:25.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProducatorView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProducatorView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\ProducatorView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProducatorView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\ProducatorView.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:34:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProducatorLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\ProducatorLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\ProducatorLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\ProducatorLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\ProducatorLogic.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwEMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:27:38.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProducatorVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\ProducatorVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\ProducatorVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\ProducatorVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\ProducatorVM.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:26:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProducatorView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProducatorView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\ProducatorView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProducatorView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\ProducatorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T13:25:43.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\ProductView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\ProductView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:06:10.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\ProductVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\ProductVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:53:56.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\ProductView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\ProductView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T12:52:58.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\UsersView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\UsersView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\UsersView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\UsersView.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:12:38.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\RegView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\RegView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\RegView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\RegView.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:04:44.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\UsersVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\UsersVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\UsersVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\UsersVM.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:44:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\UsersView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\UsersView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\UsersView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\UsersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T10:38:32.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\Main.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Main.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\Main.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T10:19:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserConverter.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Converters\\UserConverter.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Converters\\UserConverter.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Converters\\UserConverter.cs",
+              "RelativeToolTip": "SuperMarket\\Converters\\UserConverter.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:15:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\LoginVM.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAApwEEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:15:13.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\RegView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\RegView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\RegView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\RegView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T10:06:43.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersLogic.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\UsersLogic.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\UsersLogic.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\UsersLogic.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\UsersLogic.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowGoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:49:50.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\LoginView.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "SuperMarket\\Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:19:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Views\\LoginView.xaml",
+              "RelativeToolTip": "SuperMarket\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T09:19:26.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BasePropertyChanged.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\BasePropertyChanged.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Helper\\BasePropertyChanged.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\BasePropertyChanged.cs",
+              "RelativeToolTip": "SuperMarket\\Helper\\BasePropertyChanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:12:30.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Helper\\RelayCommand.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\RelayCommand.cs",
+              "RelativeToolTip": "SuperMarket\\Helper\\RelayCommand.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAvwDAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:08:22.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogReg.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\LogReg.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\ViewModel\\LogReg.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\ViewModel\\LogReg.cs",
+              "RelativeToolTip": "SuperMarket\\ViewModel\\LogReg.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAvwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:05:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\App.xaml",
+              "RelativeDocumentMoniker": "SuperMarket\\App.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\App.xaml",
+              "RelativeToolTip": "SuperMarket\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T08:49:42.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\Context.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Logic\\Context.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Logic\\Context.cs",
+              "RelativeToolTip": "SuperMarket\\Logic\\Context.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:54.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdusePeBon.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\ProdusePeBon.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\ProdusePeBon.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\ProdusePeBon.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\ProdusePeBon.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:10:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Bonuri.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Bonuri.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\Bonuri.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Bonuri.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\Bonuri.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:05:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TipUtilizator.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\TipUtilizator.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Helper\\TipUtilizator.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Helper\\TipUtilizator.cs",
+              "RelativeToolTip": "SuperMarket\\Helper\\TipUtilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:00:55.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\User.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\User.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:58:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stocuri.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Stocuri.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\Stocuri.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Stocuri.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\Stocuri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:50:38.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategorieProdus.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\CategorieProdus.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\CategorieProdus.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\CategorieProdus.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\CategorieProdus.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:47:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Producator.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Producator.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\Producator.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Producator.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\Producator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:43:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Produs.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\Produs.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\SuperMarket\\SuperMarket\\Models\\Produs.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\Produs.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:40:38.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿    <Window x:Class="SuperMarket.Views.BonView"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:SuperMarket.Views"
+            xmlns:vm="clr-namespace:SuperMarket.ViewModel"
+            mc:Ignorable="d"
+            Title="BonView" Height="450" Width="800">
+        <Window.Resources>
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        </Window.Resources>
+        <StackPanel>
+            <Button x:Name="Add" Content="Add" Width="50" Height="20" Visibility="{Binding Role, Converter={StaticResource BooleanToVisibilityConverter}}" Command="{Binding AddIt}" CommandParameter="1"></Button>
+            <DataGrid ItemsSource="{Binding bonList}" AutoGenerateColumns="False"  SelectedItem="{Binding SelectedBon}" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Casier" Binding="{Binding NumeCasier}" />
+                    <DataGridTextColumn Header="Data Emiterii" Binding="{Binding DataEliberarii}" />
+                    <DataGridTextColumn Header="Suma" Binding="{Binding SumaTotala}" />
+                    <DataGridTemplateColumn Header="Actions">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Content="Details" Command="{Binding DataContext.DetailCommand, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" CommandParameter="{Binding}" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+        </DataGrid>
+        </StackPanel>
+    </Window>
